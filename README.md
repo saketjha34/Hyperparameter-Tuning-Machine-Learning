@@ -1,3 +1,4 @@
+
 # Hyperparameter Tuning in Machine Learning
 
 This repository contains various methods and techniques for hyperparameter tuning in machine learning models using different libraries in Python.
@@ -30,10 +31,11 @@ This repository covers the following hyperparameter tuning methods:
 
 Clone the repository and install the necessary dependencies:
 
-```bash
+
 git clone https://github.com/saketjha34/Hyperparameter-Tuning-Machine-Learning.git
 cd Hyperparameter-Tuning-Machine-Learning
 pip install -r requirements.txt
+
 
 ## Usage
 
@@ -41,15 +43,14 @@ Each method is demonstrated in a Jupyter notebook. To explore a specific method,
 
 - [Grid Search](GridSearchCV.ipynb)
 - [Random Search](RandomSearchCV.ipynb)
-- [Bayesian Optimization](Bayesian_Optimization.ipynb)
+- [Bayesian Optimization](Bayesian\ Optimization.ipynb)
 - [Optuna](Optuna.ipynb)
-- [KFold](KFold.ipynb)
 
 Run the notebooks using Jupyter:
 
-```bash
+
 jupyter notebook
-```
+
 
 ## References
 
@@ -75,6 +76,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please open an issue or contact me at saketjha34@gmail.com.
 
----
+
 
 Happy tuning!
