@@ -43,8 +43,9 @@ Each method is demonstrated in a Jupyter notebook. To explore a specific method,
 
 - [Grid Search](GridSearchCV.ipynb)
 - [Random Search](RandomSearchCV.ipynb)
-- [Bayesian Optimization](Bayesian\ Optimization.ipynb)
+- [Bayesian Optimization](Bayesian_Optimization.ipynb)
 - [Optuna](Optuna.ipynb)
+- [KFold](KFold.ipynb)
 
 Run the notebooks using Jupyter:
 
