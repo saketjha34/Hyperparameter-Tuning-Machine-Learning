@@ -1,4 +1,3 @@
-```markdown
 # Hyperparameter Tuning in Machine Learning
 
 This repository contains various methods and techniques for hyperparameter tuning in machine learning models using different libraries in Python.
@@ -35,7 +34,6 @@ Clone the repository and install the necessary dependencies:
 git clone https://github.com/saketjha34/Hyperparameter-Tuning-Machine-Learning.git
 cd Hyperparameter-Tuning-Machine-Learning
 pip install -r requirements.txt
-```
 
 ## Usage
 
